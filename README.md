@@ -67,6 +67,16 @@ Based on the processed data, the following insights were generated:
    ```bash
    pip install pandas numpy
 
-   
+   Update the file path of raw_data.csv in sales_analysis.py
+
+2. Run the script:
+python sales_analysis.py
+
+
+3.Output files generated:
+
+   cleaned_sales_data.csv
+
+   insights_report.txt
 
 
